@@ -6,5 +6,12 @@ public class GitBranching {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void tigers(){
+		system.out.println("we are tigers");
+		
+		
+		{
+			
 
 }
